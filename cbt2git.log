@@ -1,0 +1,44 @@
+2025-04-13 20:01:05.985820 - Received CBT.V508.FILE479.PDS from FILE479.XMI 
+2025-04-13 20:01:05.986965 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:01:05.987049 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/$$NOTE
+2025-04-13 20:01:05.987125 - Found @FILE479.txt (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/@FILE479
+2025-04-13 20:01:05.987186 - Found BCEDIT.rexx (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/BCEDIT
+2025-04-13 20:01:05.987266 - Found BCEDITA.rexx (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/BCEDITA
+2025-04-13 20:01:05.987328 - Found BCEDITM1.rexx (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/BCEDITM1
+2025-04-13 20:01:05.987402 - Found BCEDITM2.rexx (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/BCEDITM2
+2025-04-13 20:01:05.987471 - Found BKSEARCH.rexx (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/BKSEARCH
+2025-04-13 20:01:05.987543 - Found CPSCB.txt (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/CPSCB
+2025-04-13 20:01:05.987608 - Found CPSCB$.jcl (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/CPSCB$
+2025-04-13 20:01:05.987684 - Found CPSCB#.txt (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/CPSCB#
+2025-04-13 20:01:05.987758 - Found LPSCB.txt (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/LPSCB
+2025-04-13 20:01:05.987818 - Found LPSCB$.jcl (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/LPSCB$
+2025-04-13 20:01:05.987876 - Found LPSCB#.txt (text/plain) in CBT.V508.FILE479.PDS, moved to PDS/LPSCB#
+2025-04-13 20:01:05.987971 - Found YAHCLIST.xmi (application/xmit) in CBT.V508.FILE479.PDS, moved to PDS/YAHCLIST.xmi
+2025-04-13 20:01:06.131891 - Received GL4M.YAH.CLIST from YAHCLIST.xmi 
+2025-04-13 20:01:06.133065 - Found @DOC.txt (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/@DOC
+2025-04-13 20:01:06.133151 - Found YZ.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/YZ
+2025-04-13 20:01:06.133232 - Found ZEE.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE
+2025-04-13 20:01:06.133300 - Found ZEELB.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEELB
+2025-04-13 20:01:06.133361 - Found ZEER.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEER
+2025-04-13 20:01:06.133441 - Found ZEET.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEET
+2025-04-13 20:01:06.133502 - Found ZEEUB.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEEUB
+2025-04-13 20:01:06.133563 - Found ZEEYC.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEEYC
+2025-04-13 20:01:06.133622 - Found ZEEZ.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEEZ
+2025-04-13 20:01:06.133680 - Found ZEE0.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE0
+2025-04-13 20:01:06.133736 - Found ZEE1.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE1
+2025-04-13 20:01:06.133797 - Found ZEE10.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE10
+2025-04-13 20:01:06.133864 - Found ZEE11.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE11
+2025-04-13 20:01:06.133932 - Found ZEE12.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE12
+2025-04-13 20:01:06.133989 - Found ZEE13.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE13
+2025-04-13 20:01:06.134046 - Found ZEE2.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE2
+2025-04-13 20:01:06.134107 - Found ZEE3.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE3
+2025-04-13 20:01:06.134196 - Found ZEE4.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE4
+2025-04-13 20:01:06.134267 - Found ZEE5.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE5
+2025-04-13 20:01:06.134325 - Found ZEE6.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE6
+2025-04-13 20:01:06.134395 - Found ZEE7.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE7
+2025-04-13 20:01:06.134465 - Found ZEE8.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE8
+2025-04-13 20:01:06.134522 - Found ZEE9.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE9
+2025-04-13 20:01:06.134579 - Found ZEE99.rexx (text/plain) in GL4M.YAH.CLIST, moved to YAHCLIST/ZEE99
+2025-04-13 20:01:06.135041 - Found YAHPANEL.xmi (application/xmit) in CBT.V508.FILE479.PDS, moved to PDS/YAHPANEL.xmi
+2025-04-13 20:01:06.144691 - Received GL4M.YAH.PANELS from YAHPANEL.xmi 
+2025-04-13 20:01:06.145090 - Found ZEE.txt (text/plain) in GL4M.YAH.PANELS, moved to YAHPANEL/ZEE
